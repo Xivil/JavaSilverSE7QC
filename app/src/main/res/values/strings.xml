@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JavaSilverSE7QC</string>
+    <string name="tx_title">JavaプログラマSilverSE7問題集</string>
+    <string-array name="chapter_list">
+        <item>１．Javaプログラミング基礎</item>
+        <item>２．配列</item>
+        <item>３．演算子と分岐分</item>
+        <item>４．繰り返し分と繰り返し制御文</item>
+        <item>５．クラス定義とオブジェクトの生成・使用</item>
+        <item>６．継承とポリモフィズム</item>
+        <item>７．例外処理</item>
+    </string-array>
+    <string name="bt_start">スタート</string>
+</resources>
